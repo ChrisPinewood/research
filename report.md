@@ -1,13 +1,13 @@
 #Summary
 
-Project: _Insert the project name_
-Researcher(s): _Researchers names here comma separated_
-Description: _High level description - one line_
+Project: Make Money!
+Researcher(s): Me! Derrr!
+Description: Whatever don't care
 
 #Introduction
 
-_A paragraph or two to explain the project at a very high level_
+Do as little as possible
 
 #Section 1
 
-_Set section 1 for standard xxxyyyzzz_
+Why would I care?  Blah, blah, blah!
