@@ -1,13 +1,13 @@
 #Summary
 
-Project: Make Money!
-Researcher(s): Me! Derrr!
-Description: Whatever don't care
+Project: Serious stuff
+Researcher(s): Chris, James, Heinrich
+Description: Very important things that'll rock the world
 
 #Introduction
 
-Do as little as possible
+Mega-clever idea that nobody has thought of.
 
 #Section 1
 
-Why would I care?  Blah, blah, blah!
+Details, details, details!
