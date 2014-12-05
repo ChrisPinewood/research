@@ -1,13 +1,13 @@
 #Summary
 
-Project: _Insert the project name_
-Researcher(s): _Researchers names here comma separated_
-Description: _High level description - one line_
+Project: Serious stuff
+Researcher(s): Chris, James, Heinrich
+Description: Very important things that'll rock the world
 
 #Introduction
 
-_A paragraph or two to explain the project at a very high level_
+Mega-clever idea that nobody has thought of.
 
 #Section 1
 
-_Set section 1 for standard xxxyyyzzz_
+Details, details, details!
